@@ -1,19 +1,10 @@
-# About me
-## Professional
-**Whoami**
->@TwoBee otherwise known as Tobi
+Some Webdev in the making.
 
-**What's your special skill?**
->I'm well versed in C# and .NET in general. Currently I'm learning to be a web-dev.
+## Website
+tobiaszimmer.dev (TBA)
 
-**What's your profession?**
->At the time I'm studying Business Informatics at Trier University Of Applied Sciences, Germany
->I also work as a web-dev at FBO Gmbh
+## Experience
+Started with Application Developement, transitioned at an process automation job and finally landed at [FBO](fbo.de)
 
-## Private
-
-**What do you do in your free time?**
->Mostly I practice sports, climbing and running especially
-
-**Do you play any instruments?**
->Well yes, I play the guitar!
+## Uni
+I studied Business Informatics (B.Sc) at Trier University of Applied Sciences
