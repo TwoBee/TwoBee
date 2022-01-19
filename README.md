@@ -4,7 +4,7 @@ Some Webdev in the making.
 tobiaszimmer.dev (TBA)
 
 ## Experience
-Started with Application Developement, transitioned at an process automation job and finally landed at [FBO](fbo.de)
+Started with Application Developement, transitioned at an process automation job and finally landed at [FBO](https://fbo.de/)
 
 ## Uni
 I studied Business Informatics (B.Sc) at Trier University of Applied Sciences
